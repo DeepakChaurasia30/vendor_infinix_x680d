@@ -1,0 +1,17 @@
+
+com.facebook.katana
+com.instagram.android
+com.facebook.orca
+com.gameloft.android.GloftJDMP
+com.rlk.feedback
+com.gameloft.android.GloftDBMF
+com.hatsune.eagleee
+in.mohalla.sharechat
+com.afmobi.boomplayer
+com.cnn.indonesia
+com.tsm.tsmstore
+com.transsion.compass
+com.google.android.apps.docs
+com.google.android.apps.tachyon
+com.google.android.apps.photos
+com.google.android.videos
